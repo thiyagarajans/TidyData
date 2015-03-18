@@ -4,10 +4,11 @@
 # A. The folders - test & train in your CWD
 # B. The file - "features.txt" in the CWD.
 
-#Following the list of steps
+#Following are the list of steps
 
 # 1.First I am reading the two sets of data located under the sub-directories
-#   test & train
+#   test & train.
+
 #   I have used LaF and ffbase libraries to make the reading faster
 #   Once I have the two data sets as two dataframes (test_data, train_data)
 

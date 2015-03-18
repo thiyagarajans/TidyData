@@ -107,7 +107,7 @@ ss3 <- cbind(totals,ss2) #This data frame has 88 columns, 86 MEAN/STD columns
     gc(reset = TRUE)
 
 #Step 8:
-#Following three lines nails the job. Using dplyr functions to summarise each
+#Following three lines nail the job. Using dplyr functions to summarise each
 #column of the subset grouped by Subject and then ActivityCode
 fd <- tbl_df(ss3)
 rm(ss3)
