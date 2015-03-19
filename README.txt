@@ -1,6 +1,6 @@
 # This is rather an amateur attempt
 
-# Make sure you are inside the data directory. You should be able to see the
+# Make sure you are inside the data directory. You should be able to see 
 # A. The folders - test & train in your CWD
 # B. The file - "features.txt" in the CWD.
 
